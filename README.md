@@ -1,5 +1,5 @@
 # Tkcreator
-IDE for Tkinter
+Tkinter interface creator 
 
 The goal is to help python developers to easily create graphical interfaces with Tkinter.
 
